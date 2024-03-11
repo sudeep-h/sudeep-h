@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate MERN Full Stack Developer with a 
 ## Skills
 
 ### Programming Languages:
-<code><img height="40" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/c91a35f3-3c55-43f4-879c-7b6b59859f09"></code>
+<code><img height="50" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/c91a35f3-3c55-43f4-879c-7b6b59859f09"></code>
 <code><img height="50" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/7ab7a316-5f99-456f-ab10-e2da9b59feee"></code>
-<code><img height="40" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/7040da0a-8aef-47c8-a4ec-ad01fc8091ed"></code>
+<code><img height="50" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/7040da0a-8aef-47c8-a4ec-ad01fc8091ed"></code>
 
 ### Frameworks/Libraries:
 <code><img height="50" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/8b9635ae-afd5-4176-ae42-1fdd22713d21"></code>
@@ -33,21 +33,17 @@ Here are a few highlighted projects I've worked on:
 1. **Expense Tracker App**: This project is a web-application built using DevOps tools like Git to manage the source code, Jenkins to automate the
  deploying and Docker to deploy it as one package and it was hosted on AWS EC2.Frontend technologies used are HTML, CSS, Bootstrap, Backend technology is Express using JavaScript and Database is MySQL.The key features of the app includes maintaining expenses daily along with the  expense categorization, and made the
  premium user feature where the user can download the report of total expenses that he made.
-   ![Project Image](link_to_image)
+
    - [GitHub Repo](https://github.com/sudeep-h/expenseTrackerAppFinal)
    - [Live Demo](link_to_demo)
 
 2. **Group Chat App**:  This project is a web-application built using DevOps tools like Git to manage the source code, Jenkins to automate the
  deploying and Docker to deploy it as one package and it was hosted on AWS EC2.Frontend technologies used are HTML, CSS, Bootstrap, Backend technology is Express using JavaScript and Database is MySQL.The key features of the app includes live messaging along with photo sharing with the friends along with creating
  groups and giving admin the special permissions for the group.
-   ![Project Image](link_to_image)
+  
    - [GitHub Repo](https://github.com/sudeep-h/groupchatAppFinal)
    - [Live Demo](link_to_demo)
 
-3. **Project Name**: Brief description.
-   ![Project Image](link_to_image)
-   - [GitHub Repo](link_to_repo)
-   - [Live Demo](link_to_demo)
 
 ## Get In Touch
 
