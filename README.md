@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate MERN Full Stack Developer with a 
 
 ### Databases:
 <code><img height="55" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/ff223745-d6db-43ce-b59d-85247146a7fd"></code>
-<code><img height="60" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/583c2801-0a51-4059-b2a2-7a3d48f7de3d"></code>
+<code><img height="55" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/583c2801-0a51-4059-b2a2-7a3d48f7de3d"></code>
 
 ### Tools/IDEs:
 <code><img height="50" src="https://github.com/sudeep-h/04-adding-a-cart-model/assets/89265481/b17fdf09-1a36-4a52-8913-a540741fe31d"></code>
